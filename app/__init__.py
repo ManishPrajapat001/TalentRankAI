@@ -1,0 +1,1 @@
+"""TalentRankAI application package."""
