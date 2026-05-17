@@ -52,7 +52,82 @@ graph LR
     G -->|Yes| C
     G -->|No| H[END]
 ```
+## Hybrid Ranking Pipeline
 
+```mermaid
+graph TD
+
+    A[Retrieved Candidates]
+    --> B[Skill Match Score]
+
+    A --> C[Experience Match Score]
+
+    A --> D[Semantic Similarity Score]
+
+    A --> E[Nice-to-Have Bonus]
+
+    B --> F[Weighted Final Score]
+    C --> F
+    D --> F
+    E --> F
+
+    F --> G[Explainability Engine]
+
+    G --> H[Strong Hire]
+    G --> I[Hire]
+    G --> J[Borderline]
+    G --> K[Reject]
+```
+## Retrieval-Augmented Generation (RAG) Pipeline
+
+```mermaid
+graph TD
+
+    A[PDF/TXT Resumes]
+    --> B[Resume Loader]
+
+    B --> C[Text Chunking]
+
+    C --> D[Sentence Transformers Embeddings]
+
+    D --> E[ChromaDB Vector Store]
+
+    F[Recruiter Query]
+    --> G[Semantic Search]
+
+    G --> E
+
+    E --> H[Relevant Resume Chunks]
+
+    H --> I[Candidate Profile Extraction]
+
+    I --> J[Candidate Ranking]
+```
+## Example Conversational Flow
+
+```mermaid
+sequenceDiagram
+
+    participant Recruiter
+    participant CLI
+    participant Agent
+    participant Retriever
+    participant Ranking
+
+    Recruiter->>CLI: Find React developers with AWS
+    CLI->>Agent: recruiter query
+    Agent->>Retriever: semantic candidate search
+    Retriever-->>Agent: retrieved candidates
+    Agent->>Ranking: rerank candidates
+    Ranking-->>Agent: ranked candidates
+    Agent-->>CLI: final report
+
+    Recruiter->>CLI: Only consider candidates with Docker
+    CLI->>Agent: refinement query
+    Agent->>Ranking: rerank with updated requirements
+    Ranking-->>Agent: updated ranking
+    Agent-->>CLI: refined report
+```
 ## Setup
 
 1. Create and activate a virtual environment.
