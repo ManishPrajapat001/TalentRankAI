@@ -167,10 +167,10 @@ Or generate sample data:
 
 ```bash
 python scripts/generate_resumes.py 
-python scripts/smoke_jds.py
+python scripts/generate_jds.py 
 ```
 
-This creates realistic fake PDF resumes in `data/resumes/` and job descriptions in `data/jds/`.
+This creates realistic synthetic resumes and job descriptions for testing. 
 
 ## Integration Testing
 
@@ -195,7 +195,7 @@ python tests/test_agent.py
 - OpenAI SDK
 - RAG (Retrieval-Augmented Generation)
 - Hybrid ranking architecture
-```
+
 
 ## Run
 
