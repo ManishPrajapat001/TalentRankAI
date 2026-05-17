@@ -36,9 +36,21 @@ app/
 
 The LangGraph flow is:
 
-```text
-START -> Parse JD -> Extract Requirements -> Search Resumes
-      -> Rank Candidates -> Generate Report -> Human Feedback Loop -> END
+## LangGraph Workflow
+
+```mermaid
+graph LR
+
+    A[START]
+    --> B[Parse JD]
+    --> C[Extract Requirements]
+    --> D[Search Resumes]
+    --> E[Rank Candidates]
+    --> F[Generate Report]
+    --> G{Feedback?}
+
+    G -->|Yes| C
+    G -->|No| H[END]
 ```
 
 ## Setup
