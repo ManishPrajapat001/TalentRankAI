@@ -1,0 +1,34 @@
+Sophia Brown
+
+Role:
+Java Spring Boot Engineer
+
+Experience:
+4 years
+
+Current Company:
+DataForge
+
+Skills:
+Hibernate, MySQL, Spring Boot, Redis, Docker, Kubernetes, Microservices, Kafka, GraphQL
+
+Professional Summary:
+Java Spring Boot Engineer with practical experience building modern applications and collaborating in agile engineering teams.
+
+Key Achievements:
+- Optimized PostgreSQL queries for high traffic workloads
+- Automated CI/CD pipelines reducing manual effort
+- Reduced API latency by 40%
+
+Leadership:
+Led engineering initiatives and mentored junior developers.
+
+Work Style:
+Worked in fast-paced startup environments with rapid product iterations.
+
+Certifications:
+Google Cloud Associate
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

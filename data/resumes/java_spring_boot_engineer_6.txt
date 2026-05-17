@@ -1,0 +1,35 @@
+James Johnson
+
+Role:
+Java Spring Boot Engineer
+
+Experience:
+5 years
+
+Current Company:
+CodeSphere
+
+Skills:
+Hibernate, MySQL, AWS, JUnit, Spring Boot, Docker, Microservices, Kafka, Java
+
+Professional Summary:
+Experienced Java Spring Boot Engineer with strong expertise in scalable systems, cloud-native architecture, CI/CD, and production-grade engineering.
+
+Key Achievements:
+- Improved deployment speed by 60%
+- Reduced API latency by 40%
+- Built scalable cloud-native systems on AWS
+- Optimized PostgreSQL queries for high traffic workloads
+
+Leadership:
+Led engineering initiatives and mentored junior developers.
+
+Work Style:
+Worked in fast-paced startup environments with rapid product iterations.
+
+Certifications:
+None
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

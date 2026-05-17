@@ -1,0 +1,32 @@
+Ethan Johnson
+
+Role:
+ML Engineer
+
+Experience:
+1 years
+
+Current Company:
+HyperSoft
+
+Skills:
+Python, AWS, Kafka, NumPy
+
+Professional Summary:
+Early-career ML Engineer with foundational development experience and eagerness to learn modern engineering practices.
+
+Key Achievements:
+- Optimized PostgreSQL queries for high traffic workloads
+
+Leadership:
+Collaborated with senior engineers in agile teams.
+
+Work Style:
+Worked in fast-paced startup environments with rapid product iterations.
+
+Certifications:
+None
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

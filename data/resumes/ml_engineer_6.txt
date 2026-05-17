@@ -1,0 +1,33 @@
+Charlotte Brown
+
+Role:
+ML Engineer
+
+Experience:
+2 years
+
+Current Company:
+TechNova
+
+Skills:
+PyTorch, Docker, Kubernetes, TensorFlow, Python
+
+Professional Summary:
+ML Engineer with moderate experience and growing exposure to scalable backend/frontend systems.
+
+Key Achievements:
+- Led migration to microservices architecture
+- Improved frontend performance and Lighthouse scores
+
+Leadership:
+Collaborated with senior engineers in agile teams.
+
+Work Style:
+Worked in structured enterprise engineering teams.
+
+Certifications:
+Docker Certified Associate
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

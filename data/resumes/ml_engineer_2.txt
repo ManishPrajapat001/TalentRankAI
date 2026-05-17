@@ -1,0 +1,35 @@
+Emma Miller
+
+Role:
+ML Engineer
+
+Experience:
+5 years
+
+Current Company:
+CodeSphere
+
+Skills:
+PyTorch, NumPy, LangChain, AWS, Vector Databases, Docker, Microservices, CI/CD, Python, Agile, Kafka, RAG
+
+Professional Summary:
+Experienced ML Engineer with strong expertise in scalable systems, cloud-native architecture, CI/CD, and production-grade engineering.
+
+Key Achievements:
+- Reduced API latency by 40%
+- Built scalable cloud-native systems on AWS
+- Implemented monitoring and alerting systems
+- Led migration to microservices architecture
+
+Leadership:
+Led engineering initiatives and mentored junior developers.
+
+Work Style:
+Worked in fast-paced startup environments with rapid product iterations.
+
+Certifications:
+Google Cloud Associate
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

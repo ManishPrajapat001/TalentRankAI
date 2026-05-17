@@ -21,15 +21,18 @@ class OpenRouterLLM:
         """Return a text completion for a prompt."""
         if not config.OPENROUTER_API_KEY:
             return ""
-        response = self.client.chat.completions.create(
-            model=self.model,
-            messages=[
-                {"role": "system", "content": system},
-                {"role": "user", "content": prompt},
-            ],
-            temperature=0.2,
-        )
-        return response.choices[0].message.content or ""
+        try:
+            response = self.client.chat.completions.create(
+                model=self.model,
+                messages=[
+                    {"role": "system", "content": system},
+                    {"role": "user", "content": prompt},
+                ],
+                temperature=0.2,
+            )
+            return response.choices[0].message.content or ""
+        except Exception:
+            return ""
 
 
 llm = OpenRouterLLM()

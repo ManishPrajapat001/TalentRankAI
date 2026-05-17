@@ -1,0 +1,35 @@
+Sophia Taylor
+
+Role:
+DevOps Engineer
+
+Experience:
+5 years
+
+Current Company:
+TechNova
+
+Skills:
+Linux, AWS, Ansible, Kubernetes, Docker, Redis, Terraform, CI/CD, Prometheus, Agile, Kafka
+
+Professional Summary:
+Experienced DevOps Engineer with strong expertise in scalable systems, cloud-native architecture, CI/CD, and production-grade engineering.
+
+Key Achievements:
+- Optimized PostgreSQL queries for high traffic workloads
+- Improved deployment speed by 60%
+- Built scalable cloud-native systems on AWS
+- Automated CI/CD pipelines reducing manual effort
+
+Leadership:
+Led engineering initiatives and mentored junior developers.
+
+Work Style:
+Worked in structured enterprise engineering teams.
+
+Certifications:
+AWS Certified Developer
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

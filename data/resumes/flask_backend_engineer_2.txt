@@ -1,0 +1,33 @@
+John Johnson
+
+Role:
+Flask Backend Engineer
+
+Experience:
+2 years
+
+Current Company:
+TechNova
+
+Skills:
+PostgreSQL, Redis, SQLAlchemy, GraphQL, JWT
+
+Professional Summary:
+Flask Backend Engineer with moderate experience and growing exposure to scalable backend/frontend systems.
+
+Key Achievements:
+- Improved frontend performance and Lighthouse scores
+- Led migration to microservices architecture
+
+Leadership:
+Collaborated with senior engineers in agile teams.
+
+Work Style:
+Worked in structured enterprise engineering teams.
+
+Certifications:
+Azure Fundamentals
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

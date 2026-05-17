@@ -1,0 +1,32 @@
+Sophia Brown
+
+Role:
+DevOps Engineer
+
+Experience:
+1 years
+
+Current Company:
+TechNova
+
+Skills:
+Prometheus, AWS, Kafka, CI/CD
+
+Professional Summary:
+Early-career DevOps Engineer with foundational development experience and eagerness to learn modern engineering practices.
+
+Key Achievements:
+- Led migration to microservices architecture
+
+Leadership:
+Collaborated with senior engineers in agile teams.
+
+Work Style:
+Worked in fast-paced startup environments with rapid product iterations.
+
+Certifications:
+AWS Certified Developer
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

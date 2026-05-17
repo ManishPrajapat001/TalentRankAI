@@ -1,0 +1,33 @@
+James Thomas
+
+Role:
+React Developer
+
+Experience:
+4 years
+
+Current Company:
+CloudScale
+
+Skills:
+Jest, TypeScript, REST APIs, Agile, Redux, GraphQL
+
+Professional Summary:
+React Developer with moderate experience and growing exposure to scalable backend/frontend systems.
+
+Key Achievements:
+- Improved frontend performance and Lighthouse scores
+- Reduced API latency by 40%
+
+Leadership:
+Collaborated with senior engineers in agile teams.
+
+Work Style:
+Worked in fast-paced startup environments with rapid product iterations.
+
+Certifications:
+Docker Certified Associate
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

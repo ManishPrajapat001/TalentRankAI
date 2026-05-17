@@ -1,0 +1,35 @@
+Sophia Anderson
+
+Role:
+MERN Stack Developer
+
+Experience:
+6 years
+
+Current Company:
+NextWave
+
+Skills:
+Express.js, AWS, TypeScript, React, Node.js, Docker, MongoDB, Kafka, Agile, Redux, GraphQL, JWT
+
+Professional Summary:
+Experienced MERN Stack Developer with strong expertise in scalable systems, cloud-native architecture, CI/CD, and production-grade engineering.
+
+Key Achievements:
+- Led migration to microservices architecture
+- Implemented monitoring and alerting systems
+- Reduced API latency by 40%
+- Improved deployment speed by 60%
+
+Leadership:
+Led engineering initiatives and mentored junior developers.
+
+Work Style:
+Worked in fast-paced startup environments with rapid product iterations.
+
+Certifications:
+None
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

@@ -1,0 +1,33 @@
+Alice Smith
+
+Role:
+MERN Stack Developer
+
+Experience:
+3 years
+
+Current Company:
+CloudScale
+
+Skills:
+Express.js, React, Docker, Redis, Redux
+
+Professional Summary:
+MERN Stack Developer with moderate experience and growing exposure to scalable backend/frontend systems.
+
+Key Achievements:
+- Automated CI/CD pipelines reducing manual effort
+- Reduced API latency by 40%
+
+Leadership:
+Collaborated with senior engineers in agile teams.
+
+Work Style:
+Worked in fast-paced startup environments with rapid product iterations.
+
+Certifications:
+AWS Certified Developer
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

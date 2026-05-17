@@ -1,0 +1,35 @@
+Daniel Smith
+
+Role:
+React Developer
+
+Experience:
+8 years
+
+Current Company:
+DataForge
+
+Skills:
+Jest, CSS, Next.js, TypeScript, AWS, React, HTML, REST APIs, Microservices, JavaScript, CI/CD, GraphQL
+
+Professional Summary:
+Experienced React Developer with strong expertise in scalable systems, cloud-native architecture, CI/CD, and production-grade engineering.
+
+Key Achievements:
+- Optimized PostgreSQL queries for high traffic workloads
+- Reduced API latency by 40%
+- Automated CI/CD pipelines reducing manual effort
+- Led migration to microservices architecture
+
+Leadership:
+Led engineering initiatives and mentored junior developers.
+
+Work Style:
+Worked in structured enterprise engineering teams.
+
+Certifications:
+Docker Certified Associate
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

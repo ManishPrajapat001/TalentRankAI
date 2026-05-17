@@ -1,0 +1,32 @@
+John Anderson
+
+Role:
+React Developer
+
+Experience:
+1 years
+
+Current Company:
+HyperSoft
+
+Skills:
+REST APIs, TypeScript, Webpack, GraphQL
+
+Professional Summary:
+Early-career React Developer with foundational development experience and eagerness to learn modern engineering practices.
+
+Key Achievements:
+- Automated CI/CD pipelines reducing manual effort
+
+Leadership:
+Collaborated with senior engineers in agile teams.
+
+Work Style:
+Worked in fast-paced startup environments with rapid product iterations.
+
+Certifications:
+AWS Certified Developer
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

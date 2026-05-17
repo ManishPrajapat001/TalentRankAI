@@ -1,0 +1,34 @@
+Charlotte Anderson
+
+Role:
+ML Engineer
+
+Experience:
+5 years
+
+Current Company:
+HyperSoft
+
+Skills:
+NumPy, LangChain, AWS, Docker, CI/CD, Python, GraphQL, RAG
+
+Professional Summary:
+ML Engineer with practical experience building modern applications and collaborating in agile engineering teams.
+
+Key Achievements:
+- Led migration to microservices architecture
+- Implemented monitoring and alerting systems
+- Improved deployment speed by 60%
+
+Leadership:
+Led engineering initiatives and mentored junior developers.
+
+Work Style:
+Worked in structured enterprise engineering teams.
+
+Certifications:
+Azure Fundamentals
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

@@ -1,0 +1,35 @@
+Charlotte Wilson
+
+Role:
+ML Engineer
+
+Experience:
+8 years
+
+Current Company:
+CloudScale
+
+Skills:
+PyTorch, Pandas, NumPy, LangChain, AWS, Docker, Kubernetes, Microservices, TensorFlow, Python, Agile
+
+Professional Summary:
+Experienced ML Engineer with strong expertise in scalable systems, cloud-native architecture, CI/CD, and production-grade engineering.
+
+Key Achievements:
+- Reduced API latency by 40%
+- Automated CI/CD pipelines reducing manual effort
+- Improved deployment speed by 60%
+- Optimized PostgreSQL queries for high traffic workloads
+
+Leadership:
+Led engineering initiatives and mentored junior developers.
+
+Work Style:
+Worked in structured enterprise engineering teams.
+
+Certifications:
+AWS Certified Developer
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

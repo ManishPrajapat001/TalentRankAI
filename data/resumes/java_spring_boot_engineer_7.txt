@@ -1,0 +1,32 @@
+Olivia Williams
+
+Role:
+Java Spring Boot Engineer
+
+Experience:
+2 years
+
+Current Company:
+InnovateX
+
+Skills:
+Kubernetes, Java, Spring Boot, Redis
+
+Professional Summary:
+Early-career Java Spring Boot Engineer with foundational development experience and eagerness to learn modern engineering practices.
+
+Key Achievements:
+- Optimized PostgreSQL queries for high traffic workloads
+
+Leadership:
+Collaborated with senior engineers in agile teams.
+
+Work Style:
+Worked in structured enterprise engineering teams.
+
+Certifications:
+Google Cloud Associate
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

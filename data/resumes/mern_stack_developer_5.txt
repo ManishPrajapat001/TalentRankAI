@@ -1,0 +1,35 @@
+Daniel Williams
+
+Role:
+MERN Stack Developer
+
+Experience:
+8 years
+
+Current Company:
+DataForge
+
+Skills:
+Express.js, TypeScript, React, Node.js, Docker, REST APIs, CI/CD, MongoDB, Kafka, Redux, GraphQL, JWT
+
+Professional Summary:
+Experienced MERN Stack Developer with strong expertise in scalable systems, cloud-native architecture, CI/CD, and production-grade engineering.
+
+Key Achievements:
+- Automated CI/CD pipelines reducing manual effort
+- Optimized PostgreSQL queries for high traffic workloads
+- Built scalable cloud-native systems on AWS
+- Implemented monitoring and alerting systems
+
+Leadership:
+Led engineering initiatives and mentored junior developers.
+
+Work Style:
+Worked in fast-paced startup environments with rapid product iterations.
+
+Certifications:
+Azure Fundamentals
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

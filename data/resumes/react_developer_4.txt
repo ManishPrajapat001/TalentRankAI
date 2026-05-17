@@ -1,0 +1,35 @@
+Ethan Anderson
+
+Role:
+React Developer
+
+Experience:
+5 years
+
+Current Company:
+TechNova
+
+Skills:
+Jest, CSS, AWS, TypeScript, React, Kubernetes, HTML, JavaScript, Microservices, Redux, GraphQL, Webpack
+
+Professional Summary:
+Experienced React Developer with strong expertise in scalable systems, cloud-native architecture, CI/CD, and production-grade engineering.
+
+Key Achievements:
+- Implemented monitoring and alerting systems
+- Optimized PostgreSQL queries for high traffic workloads
+- Led migration to microservices architecture
+- Reduced API latency by 40%
+
+Leadership:
+Led engineering initiatives and mentored junior developers.
+
+Work Style:
+Worked in fast-paced startup environments with rapid product iterations.
+
+Certifications:
+Google Cloud Associate
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

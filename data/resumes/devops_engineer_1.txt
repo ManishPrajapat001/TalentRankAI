@@ -1,0 +1,35 @@
+John Davis
+
+Role:
+DevOps Engineer
+
+Experience:
+8 years
+
+Current Company:
+ByteWorks
+
+Skills:
+AWS, Monitoring, Ansible, Kubernetes, Redis, Docker, Microservices, Terraform, CI/CD, Prometheus, Grafana
+
+Professional Summary:
+Experienced DevOps Engineer with strong expertise in scalable systems, cloud-native architecture, CI/CD, and production-grade engineering.
+
+Key Achievements:
+- Automated CI/CD pipelines reducing manual effort
+- Led migration to microservices architecture
+- Improved deployment speed by 60%
+- Optimized PostgreSQL queries for high traffic workloads
+
+Leadership:
+Led engineering initiatives and mentored junior developers.
+
+Work Style:
+Worked in fast-paced startup environments with rapid product iterations.
+
+Certifications:
+None
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

@@ -1,0 +1,34 @@
+Alice Thomas
+
+Role:
+ML Engineer
+
+Experience:
+5 years
+
+Current Company:
+CloudScale
+
+Skills:
+Pandas, LangChain, AWS, Docker, Redis, TensorFlow, Python, Kafka
+
+Professional Summary:
+ML Engineer with practical experience building modern applications and collaborating in agile engineering teams.
+
+Key Achievements:
+- Optimized PostgreSQL queries for high traffic workloads
+- Implemented monitoring and alerting systems
+- Reduced API latency by 40%
+
+Leadership:
+Led engineering initiatives and mentored junior developers.
+
+Work Style:
+Worked in fast-paced startup environments with rapid product iterations.
+
+Certifications:
+Docker Certified Associate
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure

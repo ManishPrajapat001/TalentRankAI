@@ -1,0 +1,33 @@
+Ethan Williams
+
+Role:
+Flask Backend Engineer
+
+Experience:
+3 years
+
+Current Company:
+TechNova
+
+Skills:
+PostgreSQL, Redis, Kubernetes, Microservices, Flask
+
+Professional Summary:
+Flask Backend Engineer with moderate experience and growing exposure to scalable backend/frontend systems.
+
+Key Achievements:
+- Optimized PostgreSQL queries for high traffic workloads
+- Improved deployment speed by 60%
+
+Leadership:
+Collaborated with senior engineers in agile teams.
+
+Work Style:
+Worked in structured enterprise engineering teams.
+
+Certifications:
+Docker Certified Associate
+
+Additional Keywords:
+scalable systems, REST APIs, agile development, production deployment,
+system design, debugging, performance optimization, cloud infrastructure
