@@ -128,6 +128,7 @@ sequenceDiagram
     Ranking-->>Agent: updated ranking
     Agent-->>CLI: refined report
 ```
+
 ## Setup
 
 1. Create and activate a virtual environment.
@@ -165,11 +166,36 @@ data/resumes/
 Or generate sample data:
 
 ```bash
-python scripts/generate_test_data.py --clean
-python scripts/smoke_test_data.py
+python scripts/generate_resumes.py 
+python scripts/smoke_jds.py
 ```
 
 This creates realistic fake PDF resumes in `data/resumes/` and job descriptions in `data/jds/`.
+
+## Integration Testing
+
+Run tests layer-by-layer:
+
+```bash
+python tests/test_loader.py
+python tests/test_extraction.py
+python tests/test_indexing.py
+python tests/test_retrieval.py
+python tests/test_ranking.py
+python tests/test_agent.py
+```
+## Technologies Used
+
+- Python
+- LangGraph
+- OpenRouter
+- ChromaDB
+- sentence-transformers
+- pypdf
+- OpenAI SDK
+- RAG (Retrieval-Augmented Generation)
+- Hybrid ranking architecture
+```
 
 ## Run
 
