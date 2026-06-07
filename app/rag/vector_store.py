@@ -27,21 +27,26 @@ class ResumeVectorStore:
     def index_resumes(self, resume_dir: Path | None = None) -> int:
         """Load and index PDF resumes. Returns number of chunks indexed."""
         resumes = load_resumes(resume_dir or config.RESUME_DIR)
+        return self.index_documents(resumes)
+
+    def index_documents(self, resumes: list[dict]) -> int:
+        """Index preloaded resume documents. Returns number of chunks indexed."""
         documents: list[str] = []
         metadatas: list[dict] = []
         ids: list[str] = []
 
         for resume in resumes:
+            candidate_id = resume.get("candidate_id") or resume.get("id") or "unknown"
             for index, chunk in enumerate(chunk_text(resume["text"])):
                 documents.append(chunk)
                 metadatas.append(
                     {
-                        "candidate_id": resume["candidate_id"],
-                        "source": resume["source"],
+                        "candidate_id": candidate_id,
+                        "source": resume.get("source", ""),
                         "chunk_index": index,
                     }
                 )
-                ids.append(f"{resume['candidate_id']}-{index}-{uuid4().hex[:8]}")
+                ids.append(f"{candidate_id}-{index}-{uuid4().hex[:8]}")
 
         if not documents:
             return 0

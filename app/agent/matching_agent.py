@@ -7,19 +7,22 @@ import re
 from app.agent.graph import build_graph
 from app.agent.nodes import compare_candidates, generate_interview_questions
 from app.agent.state import AgentState
+from app.mcp.filesystem_mcp_client import FilesystemMCPClient
 from app.rag.vector_store import ResumeVectorStore
 
 
 class MatchingAgent:
     """Recruiter-facing agent that keeps conversational state."""
 
-    def __init__(self) -> None:
+    def __init__(self, filesystem_client: FilesystemMCPClient | None = None) -> None:
         self.graph = build_graph()
         self.state: AgentState = {"iteration": 0}
+        self.filesystem_client = filesystem_client or FilesystemMCPClient()
 
     def index_resumes(self) -> str:
-        """Index local PDF resumes into ChromaDB."""
-        count = ResumeVectorStore().index_resumes()
+        """Index resumes loaded through the filesystem MCP client."""
+        resumes = self.filesystem_client.load_all_resumes()
+        count = ResumeVectorStore().index_documents(resumes)
         return f"Indexed {count} resume chunks."
 
     def ask(self, query: str) -> str:
