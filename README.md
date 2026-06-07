@@ -21,19 +21,59 @@ TalentRankAI is a modular AI hiring agent built with Python, LangGraph, OpenRout
   - compare top candidates
   - explain why one candidate ranked higher
   - generate interview questions
+ 
+### MCP Features
+- JSON-RPC 2.0 compliant MCP server
+- Filesystem MCP client abstraction
+- Resource discovery
+- Directory monitoring using watch_directory()
+- Batch processing using batch_process()
+- MCP-based filesystem access
 
 ## Architecture
 
 ```text
 app/
-  agent/      LangGraph state, nodes, workflow, conversational wrapper
-  rag/        PDF loading, chunking, embeddings, ChromaDB, retrieval
-  ranking/    hybrid scoring, reranking, explainability
-  tools/      requirement extraction, comparisons, question generation
-  prompts/    prompt templates
-  utils/      configuration, LLM wrapper, helpers
+  agent/      LangGraph workflow, state management, recruiter interface
+  mcp/        MCP server, MCP client, JSON-RPC models, resource registry
+  rag/        Resume loading, chunking, embeddings, retrieval
+  ranking/    Hybrid scoring, reranking, explainability
+  tools/      Requirement extraction, comparisons, interview generation
+  prompts/    Prompt templates
+  utils/      Configuration, OpenRouter wrapper, helpers
 ```
 
+## MCP Architecture
+
+TalentRankAI uses MCP (Model Context Protocol) to standardize filesystem access.
+
+Instead of directly accessing resume files, the hiring agent communicates through a Filesystem MCP Client which interacts with a Filesystem MCP Server using JSON-RPC 2.0.
+
+### MCP Resources
+
+```text
+list_resumes
+load_resume
+load_all_resumes
+list_jds
+load_jd
+load_all_jds
+watch_directory
+batch_process
+```
+## Agent MCP Interaction
+
+```mermaid
+graph TD
+A[Recruiter Query] --> B[Matching Agent]
+B --> C[MCP Client]
+C --> D[MCP Server]
+D --> E[Resume Resources]
+E --> F[RAG Retrieval]
+F --> G[Hybrid Ranking]
+G --> H[Explainability]
+H --> I[Final Report] 
+```
 The LangGraph flow is:
 
 ## LangGraph Workflow
@@ -174,7 +214,14 @@ This creates realistic synthetic resumes and job descriptions for testing.
 
 ## Integration Testing
 
-Run tests layer-by-layer:
+### MCP Validation
+
+```bash
+python tests/test_mcp_server.py
+python tests/test_mcp_client.py 
+```
+
+### Hiring Agent Validation
 
 ```bash
 python tests/test_loader.py
@@ -184,6 +231,7 @@ python tests/test_retrieval.py
 python tests/test_ranking.py
 python tests/test_agent.py
 ```
+
 ## Technologies Used
 
 - Python
@@ -195,6 +243,8 @@ python tests/test_agent.py
 - OpenAI SDK
 - RAG (Retrieval-Augmented Generation)
 - Hybrid ranking architecture
+- MCP (Model Context Protocol)
+- JSON-RPC 2.0
 
 
 ## Run
