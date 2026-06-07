@@ -1,0 +1,37 @@
+Company:
+DataForge
+
+Job Title:
+Mid-Level Flask Backend Engineer
+
+Experience Required:
+5+ years
+
+Must Have Skills:
+- SQLAlchemy
+Flask
+REST APIs
+Python
+
+Nice To Have Skills:
+- Microservices
+Docker
+Redis
+
+Responsibilities:
+- Collaborate with cross-functional engineering teams
+Improve system reliability and performance
+Build scalable production-grade systems
+Contribute to CI/CD and deployment workflows
+
+Preferred Candidate Traits:
+- leadership skills
+problem-solving ability
+
+Additional Expectations:
+Ability to collaborate effectively in agile engineering teams.
+
+Keywords:
+scalable systems, REST APIs, agile development,
+production deployment, cloud infrastructure,
+performance optimization, debugging, CI/CD

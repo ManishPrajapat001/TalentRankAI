@@ -1,0 +1,37 @@
+Company:
+NextWave
+
+Job Title:
+Mid-Level DevOps Engineer
+
+Experience Required:
+2+ years
+
+Must Have Skills:
+- Kubernetes
+AWS
+Terraform
+Docker
+
+Nice To Have Skills:
+- Linux
+Grafana
+Ansible
+
+Responsibilities:
+- Build scalable production-grade systems
+Write maintainable and testable code
+Participate in architecture and design discussions
+Contribute to CI/CD and deployment workflows
+
+Preferred Candidate Traits:
+- leadership skills
+problem-solving ability
+
+Additional Expectations:
+Ability to collaborate effectively in agile engineering teams.
+
+Keywords:
+scalable systems, REST APIs, agile development,
+production deployment, cloud infrastructure,
+performance optimization, debugging, CI/CD

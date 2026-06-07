@@ -1,0 +1,37 @@
+Company:
+ByteWorks
+
+Job Title:
+Mid-Level MERN Stack Developer
+
+Experience Required:
+2+ years
+
+Must Have Skills:
+- Express.js
+Redux
+Node.js
+React
+
+Nice To Have Skills:
+- AWS
+TypeScript
+GraphQL
+
+Responsibilities:
+- Participate in agile software development processes
+Write maintainable and testable code
+Build scalable production-grade systems
+Improve system reliability and performance
+
+Preferred Candidate Traits:
+- cloud-native development experience
+startup experience
+
+Additional Expectations:
+Ability to collaborate effectively in agile engineering teams.
+
+Keywords:
+scalable systems, REST APIs, agile development,
+production deployment, cloud infrastructure,
+performance optimization, debugging, CI/CD

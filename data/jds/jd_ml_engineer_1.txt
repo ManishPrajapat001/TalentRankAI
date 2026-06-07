@@ -1,0 +1,37 @@
+Company:
+DataForge
+
+Job Title:
+Senior ML Engineer
+
+Experience Required:
+6+ years
+
+Must Have Skills:
+- PyTorch
+Python
+RAG
+TensorFlow
+
+Nice To Have Skills:
+- MLOps
+AWS
+Docker
+
+Responsibilities:
+- Build scalable production-grade systems
+Contribute to CI/CD and deployment workflows
+Improve system reliability and performance
+Participate in architecture and design discussions
+
+Preferred Candidate Traits:
+- startup experience
+problem-solving ability
+
+Additional Expectations:
+Prior experience leading engineering initiatives is preferred.
+
+Keywords:
+scalable systems, REST APIs, agile development,
+production deployment, cloud infrastructure,
+performance optimization, debugging, CI/CD

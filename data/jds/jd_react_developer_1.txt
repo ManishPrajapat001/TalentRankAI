@@ -1,0 +1,37 @@
+Company:
+InnovateX
+
+Job Title:
+Mid-Level React Developer
+
+Experience Required:
+5+ years
+
+Must Have Skills:
+- JavaScript
+TypeScript
+REST APIs
+React
+
+Nice To Have Skills:
+- AWS
+CI/CD
+Next.js
+
+Responsibilities:
+- Build scalable production-grade systems
+Participate in architecture and design discussions
+Contribute to CI/CD and deployment workflows
+Participate in agile software development processes
+
+Preferred Candidate Traits:
+- cloud-native development experience
+system design exposure
+
+Additional Expectations:
+Ability to collaborate effectively in agile engineering teams.
+
+Keywords:
+scalable systems, REST APIs, agile development,
+production deployment, cloud infrastructure,
+performance optimization, debugging, CI/CD

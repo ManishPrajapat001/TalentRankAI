@@ -1,0 +1,37 @@
+Company:
+NextWave
+
+Job Title:
+Junior Java Spring Boot Engineer
+
+Experience Required:
+5+ years
+
+Must Have Skills:
+- Microservices
+Spring Boot
+MySQL
+Hibernate
+
+Nice To Have Skills:
+- Docker
+Kafka
+JUnit
+
+Responsibilities:
+- Collaborate with cross-functional engineering teams
+Participate in agile software development processes
+Build scalable production-grade systems
+Write maintainable and testable code
+
+Preferred Candidate Traits:
+- problem-solving ability
+startup experience
+
+Additional Expectations:
+Ability to collaborate effectively in agile engineering teams.
+
+Keywords:
+scalable systems, REST APIs, agile development,
+production deployment, cloud infrastructure,
+performance optimization, debugging, CI/CD

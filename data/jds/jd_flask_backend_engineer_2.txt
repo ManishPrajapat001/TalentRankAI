@@ -1,0 +1,37 @@
+Company:
+TechNova
+
+Job Title:
+Junior Flask Backend Engineer
+
+Experience Required:
+5+ years
+
+Must Have Skills:
+- Flask
+SQLAlchemy
+REST APIs
+Python
+
+Nice To Have Skills:
+- Celery
+AWS
+Microservices
+
+Responsibilities:
+- Build scalable production-grade systems
+Contribute to CI/CD and deployment workflows
+Improve system reliability and performance
+Participate in agile software development processes
+
+Preferred Candidate Traits:
+- system design exposure
+problem-solving ability
+
+Additional Expectations:
+Ability to collaborate effectively in agile engineering teams.
+
+Keywords:
+scalable systems, REST APIs, agile development,
+production deployment, cloud infrastructure,
+performance optimization, debugging, CI/CD

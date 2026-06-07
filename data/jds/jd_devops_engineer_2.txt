@@ -1,0 +1,37 @@
+Company:
+DataForge
+
+Job Title:
+Senior DevOps Engineer
+
+Experience Required:
+3+ years
+
+Must Have Skills:
+- Docker
+Terraform
+AWS
+Kubernetes
+
+Nice To Have Skills:
+- Prometheus
+Grafana
+Ansible
+
+Responsibilities:
+- Participate in architecture and design discussions
+Participate in agile software development processes
+Improve system reliability and performance
+Build scalable production-grade systems
+
+Preferred Candidate Traits:
+- problem-solving ability
+cloud-native development experience
+
+Additional Expectations:
+Prior experience leading engineering initiatives is preferred.
+
+Keywords:
+scalable systems, REST APIs, agile development,
+production deployment, cloud infrastructure,
+performance optimization, debugging, CI/CD

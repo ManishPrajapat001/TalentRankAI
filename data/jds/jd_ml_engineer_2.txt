@@ -1,0 +1,37 @@
+Company:
+NextWave
+
+Job Title:
+Mid-Level ML Engineer
+
+Experience Required:
+4+ years
+
+Must Have Skills:
+- Python
+TensorFlow
+PyTorch
+RAG
+
+Nice To Have Skills:
+- Vector Databases
+Docker
+MLOps
+
+Responsibilities:
+- Contribute to CI/CD and deployment workflows
+Write maintainable and testable code
+Participate in architecture and design discussions
+Participate in agile software development processes
+
+Preferred Candidate Traits:
+- leadership skills
+strong communication
+
+Additional Expectations:
+Ability to collaborate effectively in agile engineering teams.
+
+Keywords:
+scalable systems, REST APIs, agile development,
+production deployment, cloud infrastructure,
+performance optimization, debugging, CI/CD

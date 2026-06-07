@@ -1,0 +1,37 @@
+Company:
+ByteWorks
+
+Job Title:
+Senior Java Spring Boot Engineer
+
+Experience Required:
+5+ years
+
+Must Have Skills:
+- Microservices
+Spring Boot
+Hibernate
+Java
+
+Nice To Have Skills:
+- JUnit
+Docker
+AWS
+
+Responsibilities:
+- Participate in agile software development processes
+Write maintainable and testable code
+Build scalable production-grade systems
+Contribute to CI/CD and deployment workflows
+
+Preferred Candidate Traits:
+- startup experience
+cloud-native development experience
+
+Additional Expectations:
+Prior experience leading engineering initiatives is preferred.
+
+Keywords:
+scalable systems, REST APIs, agile development,
+production deployment, cloud infrastructure,
+performance optimization, debugging, CI/CD

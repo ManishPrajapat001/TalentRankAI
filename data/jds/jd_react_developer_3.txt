@@ -1,0 +1,37 @@
+Company:
+InnovateX
+
+Job Title:
+Senior React Developer
+
+Experience Required:
+2+ years
+
+Must Have Skills:
+- TypeScript
+JavaScript
+React
+Redux
+
+Nice To Have Skills:
+- Jest
+Next.js
+CI/CD
+
+Responsibilities:
+- Contribute to CI/CD and deployment workflows
+Improve system reliability and performance
+Participate in architecture and design discussions
+Participate in agile software development processes
+
+Preferred Candidate Traits:
+- system design exposure
+startup experience
+
+Additional Expectations:
+Prior experience leading engineering initiatives is preferred.
+
+Keywords:
+scalable systems, REST APIs, agile development,
+production deployment, cloud infrastructure,
+performance optimization, debugging, CI/CD

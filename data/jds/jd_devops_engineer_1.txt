@@ -1,0 +1,37 @@
+Company:
+NextWave
+
+Job Title:
+Senior DevOps Engineer
+
+Experience Required:
+6+ years
+
+Must Have Skills:
+- Docker
+AWS
+Terraform
+Kubernetes
+
+Nice To Have Skills:
+- Monitoring
+Prometheus
+Grafana
+
+Responsibilities:
+- Collaborate with cross-functional engineering teams
+Write maintainable and testable code
+Build scalable production-grade systems
+Participate in agile software development processes
+
+Preferred Candidate Traits:
+- system design exposure
+problem-solving ability
+
+Additional Expectations:
+Prior experience leading engineering initiatives is preferred.
+
+Keywords:
+scalable systems, REST APIs, agile development,
+production deployment, cloud infrastructure,
+performance optimization, debugging, CI/CD

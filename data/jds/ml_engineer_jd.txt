@@ -1,0 +1,4 @@
+We need a Machine Learning Engineer with 5+ years of experience.
+Must have Python, Machine Learning, NLP, SQL, and production model experience.
+Nice to have LangChain, vector databases, AWS, and evaluation frameworks.
+Master's degree in Computer Science, Data Science, or equivalent experience preferred.

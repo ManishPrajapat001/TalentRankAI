@@ -1,0 +1,5 @@
+We are hiring a React Developer with 3+ years of experience.
+Must have React, TypeScript, Node.js, and strong JavaScript fundamentals.
+Nice to have AWS, GraphQL, PostgreSQL, and Docker.
+The candidate should have experience building production web applications
+and collaborating with product and design teams. Bachelor's degree preferred.

@@ -1,0 +1,37 @@
+Company:
+TechNova
+
+Job Title:
+Senior Java Spring Boot Engineer
+
+Experience Required:
+4+ years
+
+Must Have Skills:
+- Microservices
+Hibernate
+Java
+Spring Boot
+
+Nice To Have Skills:
+- Redis
+Kafka
+JUnit
+
+Responsibilities:
+- Participate in agile software development processes
+Build scalable production-grade systems
+Participate in architecture and design discussions
+Write maintainable and testable code
+
+Preferred Candidate Traits:
+- startup experience
+problem-solving ability
+
+Additional Expectations:
+Prior experience leading engineering initiatives is preferred.
+
+Keywords:
+scalable systems, REST APIs, agile development,
+production deployment, cloud infrastructure,
+performance optimization, debugging, CI/CD

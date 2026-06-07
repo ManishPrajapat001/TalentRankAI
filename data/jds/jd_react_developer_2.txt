@@ -1,0 +1,37 @@
+Company:
+CloudScale
+
+Job Title:
+Senior React Developer
+
+Experience Required:
+4+ years
+
+Must Have Skills:
+- Redux
+REST APIs
+React
+JavaScript
+
+Nice To Have Skills:
+- Next.js
+Docker
+AWS
+
+Responsibilities:
+- Improve system reliability and performance
+Write maintainable and testable code
+Participate in agile software development processes
+Collaborate with cross-functional engineering teams
+
+Preferred Candidate Traits:
+- leadership skills
+system design exposure
+
+Additional Expectations:
+Prior experience leading engineering initiatives is preferred.
+
+Keywords:
+scalable systems, REST APIs, agile development,
+production deployment, cloud infrastructure,
+performance optimization, debugging, CI/CD
